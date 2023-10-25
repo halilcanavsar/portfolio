@@ -22,13 +22,28 @@ function Navbar() {
           Halil Can AVSAR
         </motion.span>
         <div className="social">
-          <a href="#">
+          <a
+            href="https://www.linkedin.com/in/halilcanavsar/"
+            target="_blank"
+            rel="noreferrer noopener
+          "
+          >
             <img src="./linkedin.png" alt="" />
           </a>
-          <a href="#">
+          <a
+            href="https://github.com/halilcanavsar"
+            target="_blank"
+            rel="noreferrer noopener
+          "
+          >
             <img src="/github.png" alt="" />
           </a>
-          <a href="#">
+          <a
+            href="https://www.instagram.com/avsarhalilcan/"
+            target="_blank"
+            rel="noreferrer noopener
+          "
+          >
             <img src="./instagram.png" alt="" />
           </a>
         </div>
