@@ -4,6 +4,7 @@ import Navbar from './components/navbar/Navbar';
 import Parallax from './components/parallax/Parallax';
 import Portfolio from './components/portfolio/Portfolio';
 import Services from './components/services/Services';
+import TopButton from './components/topButton/TopButton';
 const App = () => {
   return (
     <div>
@@ -22,6 +23,7 @@ const App = () => {
       </section>
       <Portfolio />
       <section>Contact</section>
+      <TopButton />
     </div>
   );
 };
