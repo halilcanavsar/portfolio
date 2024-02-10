@@ -51,7 +51,7 @@ function Services() {
               <motion.b whileHover={{ color: 'orange' }}>For Your</motion.b>{' '}
               Business.
             </h1>
-            <button>WHAT WE DO?</button>
+            <button>WHAT I DO?</button>
           </div>
         </motion.div>
         <motion.div className="listContainer" variants={variants}>
@@ -59,53 +59,49 @@ function Services() {
             className="box"
             whileHover={{ background: 'lightgray', color: 'black' }}
           >
-            <h2>Branding</h2>
+            <h2>Frontend Development</h2>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum
-              alias obcaecati quae deleniti dolorum voluptatum officiis aliquid
-              in veniam explicabo mollitia beatae impedit error, iste omnis
-              ullam! Aspernatur, a praesentium?
+              I specialize in creating user interfaces and experiences using
+              modern frontend technologies like HTML, CSS, and JavaScript
+              frameworks such as React, Angular, or Vue.js.
             </p>
-            <button>Go</button>
           </motion.div>
           <motion.div
             className="box"
             whileHover={{ background: 'lightgray', color: 'black' }}
           >
-            <h2>Branding</h2>
+            <h2>Backend Development</h2>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum
-              alias obcaecati quae deleniti dolorum voluptatum officiis aliquid
-              in veniam explicabo mollitia beatae impedit error, iste omnis
-              ullam! Aspernatur, a praesentium?
+              I'm experienced in building server-side applications and APIs
+              using Node.js, Express.js, and other backend frameworks. I can
+              handle databases like MongoDB, MySQL, or PostgreSQL.
             </p>
-            <button>Go</button>
           </motion.div>
           <motion.div
             className="box"
             whileHover={{ background: 'lightgray', color: 'black' }}
           >
-            <h2>Branding</h2>
+            <h2>Database Management</h2>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum
-              alias obcaecati quae deleniti dolorum voluptatum officiis aliquid
-              in veniam explicabo mollitia beatae impedit error, iste omnis
-              ullam! Aspernatur, a praesentium?
+              I have expertise in designing, implementing, and optimizing
+              databases to ensure efficient data storage and retrieval. I'm
+              familiar with both relational and non-relational databases and can
+              work with database management systems like MongoDB, MySQL, or
+              PostgreSQL.
             </p>
-            <button>Go</button>
           </motion.div>
           <motion.div
             className="box"
             whileHover={{ background: 'lightgray', color: 'black' }}
           >
-            <h2>Branding</h2>
+            <h2>Deployment Strategies</h2>
             <p>
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum
-              alias obcaecati quae deleniti dolorum voluptatum officiis aliquid
-              in veniam explicabo mollitia beatae impedit error, iste omnis
-              ullam! Aspernatur, a praesentium?
+              I can help you deploy your applications to production environments
+              efficiently and securely. Whether it's setting up hosting
+              services, managing server configurations, or deploying updates, I
+              ensure smooth and reliable deployment processes tailored to your
+              project's needs.
             </p>
-            <button>Go</button>
           </motion.div>
         </motion.div>
       </motion.div>
